@@ -1,3 +1,4 @@
+![Banner](https://raw.githubusercontent.com/Agneta-mkng/Agneta-mkng/main/banner.png)
 # Hi 👋, I am Agneta Makungu.
 
 <h3 align="center">Cybersecurity Enthusiast | Systems Programming Explorer | Rust Learner</h3>
